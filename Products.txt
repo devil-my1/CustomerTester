@@ -1,0 +1,6 @@
+B0586,Mouse,3250
+M5151,Monitor,58000
+K1211,Keyboard,6075
+S6332,Speaker,5125
+E5621,EarPhones,2800
+C7322,Clock,1500
